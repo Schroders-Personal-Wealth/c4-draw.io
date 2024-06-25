@@ -10,6 +10,8 @@ https://github.com/Schroders-Personal-Wealth/c4-draw.io/raw/master/c4.drawio.lib
 
 https://github.com/Schroders-Personal-Wealth/c4-draw.io/raw/master/c4.aws.drawio.library.xml for the AWS deployment diagram C4 library.
 
+https://github.com/Schroders-Personal-Wealth/c4-draw.io/raw/master/c4.mulesoft.drawio.library.xml for the Mulesoft deployment diagram C4 library.
+
 ## Diagram
 
 ### Standard C4 library
